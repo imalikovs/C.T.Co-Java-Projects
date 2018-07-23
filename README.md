@@ -1,4 +1,4 @@
-# C.T.Co-Java-Projects
+# C.T.Co Java Projects
 
 My name is Igors Malikovs
 
