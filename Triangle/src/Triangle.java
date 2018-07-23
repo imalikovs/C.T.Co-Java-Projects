@@ -9,7 +9,7 @@ public class Triangle {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a base value");
 		int base = input.nextInt();
-		int evenOdd = 1;
+		
 		
 		if (base % 2 == 0) {
 			
